@@ -10,7 +10,7 @@ function App() {
 
   return (
     <main className="flex items-center justify-center">
-      <div className="wrapper grid  rounded-3xl bg-white sm:max-w-2xl sm:grid-cols-2 sm:shadow-xl">
+      <div className="wrapper grid  sm:rounded-3xl bg-white sm:max-w-2xl sm:grid-cols-2 sm:shadow-xl">
         <Result averageScore={averageScore} />
         <Summary data={data} />
       </div>
