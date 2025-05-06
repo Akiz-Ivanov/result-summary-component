@@ -27,11 +27,11 @@ Users should be able to:
 
 #### Desktop Design
 
-![Desktop screenshot](./screenshot/desktop-screenshot.png)
+![Desktop screenshot](./screenshots/desktop-screenshot.png)
 
 #### Mobile Design
 
-![Mobile screenshot](./screenshot/mobile-screenshot.png)
+![Mobile screenshot](./screenshots/mobile-screenshot.png)
 
 ### Links
 
